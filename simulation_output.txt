@@ -1,0 +1,8 @@
+VCD info: dumpfile dump.vcd opened for output.
+--------------------------------
+UART SIMULATION RESULT
+Transmitted Data = a5
+Received Data    = a5
+STATUS: PASS
+--------------------------------
+uart_tb.v:77: $finish called at 165191000 (1ps)
